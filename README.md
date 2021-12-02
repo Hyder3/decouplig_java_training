@@ -1,1 +1,1 @@
-# decouplig_java_training
+# maven_training
